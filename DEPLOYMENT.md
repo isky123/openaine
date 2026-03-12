@@ -1,14 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: "00000000000000000000000000000000"
-    PropagateID: "00000000000000000000000000000000"
-    ReservedCode1: 3046022100a6aeaad9ce7808a4f1ed1deb9e00e5169da6d94092bf6da3006a5458bdda85e1022100bcea199607aea94efad06b0426e1d31a2fbb3c57de3693175167ebd15f43bb65
-    ReservedCode2: 3045022033d353908bb27620535195915e90c2ce1aef5bb9227a25322664463f69b26d97022100fbc3c638fcecf3962ea2983f64f54c26198b0feba3782b0624074a6e701699bd
----
-
 # OpenAine 项目部署文档
 
 ## 项目概述
